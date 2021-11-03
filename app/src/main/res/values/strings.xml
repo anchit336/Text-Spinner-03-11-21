@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text Spinner</string>
+    <string-array name="locations">
+        <item>India</item>
+        <item>Dubai</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>America</item>
+    </string-array>
+</resources>
